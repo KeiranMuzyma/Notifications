@@ -1,0 +1,257 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:17:1-83:12
+INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:17:1-83:12
+INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\a3e11def4f11d5bb92b1d6968e6a39e2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-alpha3.aar\bdff99efb106a2fdb83e2a764219af60\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-alpha3.aar\f84b6941b3449b29d659516c2c6a9c82\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0-alpha3.aar\793cb38b21c4ab790081224be2dc7434\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\93802cb41601c6581bf7e4ff95407a01\AndroidManifest.xml:17:1-24:12
+MERGED from [:Shared] D:\AndroidStudioProjects\android-Notifications-master\Shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:1-26:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-alpha3.aar\72120e8a9fd7168bf650a65a2da27e62\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-alpha3.aar\37bc336fbb265be1b093fb7f2e3e8f6b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-alpha3.aar\dcfb055ae03ff09c55e7e4ce636c50b4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-alpha3.aar\026d29e6a2e8172b6576780211d51367\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\d89d63a49f1a5ec5414511de27804bbd\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\f884e8f93697f6b9f9ead68bbbac3dfd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\6796e7b4121912fb03fa62d4d93a53af\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\0a6137ec114dca68e5a3417b4c28c1b6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\768fa60c5bca10787faf22b244e06944\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\6f3de49851eac010bfd8d29f3fa1314a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\ea4e787bcb881cf87b59d1457af1acff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\9ca0e27ac0e4f533cde35b820d6a82a2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\45ce38cf92e53fe57d929cf651e15eda\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\11ac0a3820815dabf3c0de44908933c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\79aabb4e065702c6a77dae595a0c70af\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\9ef2baf0991b17caa7210860ede3aaf2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\1de0cc78246c68a34ab5674226dcb5c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\d3c0fedf5d74bef0bd03d81e0b52dc5b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\dfda03faaef2cf1c377e2c63431cebec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\74da641dbfc3f7f1b66dd16c03c4ffd9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\91a2b795637ff6efad240933146cd58b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\fd5687698cf093dabd0121cdda416e72\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\dac7ffc0e55b41aa259158e1a208551d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\334a5b18d1223a7d46939af645530e8f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\432a0793059338fc46777c7f058b613b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\29464c20620be472a37b658c4d168b0c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\3a9c1b836bd809c5c25a1f8ab54d4ca7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7018717d359d756a21d6e76e7186a0e0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6ca3ec697cafe71e9208b406ab77c112\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\901ff0360a16ff7487cd43424068b9b0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c7749a6e41dcdfa20d8943e5bb2fbee7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\0be052668dd383ca0fa441370171b90f\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:17:1-83:12
+INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:17:1-83:12
+	package
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:18:11-72
+	android:versionName
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:20:11-36
+		INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:19:11-34
+		INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml
+application
+ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:22:5-82:19
+MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\a3e11def4f11d5bb92b1d6968e6a39e2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\a3e11def4f11d5bb92b1d6968e6a39e2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\93802cb41601c6581bf7e4ff95407a01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\93802cb41601c6581bf7e4ff95407a01\AndroidManifest.xml:22:5-20
+MERGED from [:Shared] D:\AndroidStudioProjects\android-Notifications-master\Shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:5-24:19
+MERGED from [:Shared] D:\AndroidStudioProjects\android-Notifications-master\Shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:5-24:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\d89d63a49f1a5ec5414511de27804bbd\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\d89d63a49f1a5ec5414511de27804bbd\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\f884e8f93697f6b9f9ead68bbbac3dfd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\f884e8f93697f6b9f9ead68bbbac3dfd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\6796e7b4121912fb03fa62d4d93a53af\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\6796e7b4121912fb03fa62d4d93a53af\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\91a2b795637ff6efad240933146cd58b\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\91a2b795637ff6efad240933146cd58b\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\fd5687698cf093dabd0121cdda416e72\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\fd5687698cf093dabd0121cdda416e72\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\91a2b795637ff6efad240933146cd58b\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:24:9-45
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:27:9-48
+activity#com.example.android.wearable.wear.wearnotifications.MainActivity
+ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:29:9-34:20
+	android:name
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:29:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:32:27-74
+activity#com.example.android.wearable.wear.wearnotifications.handlers.BigTextMainActivity
+ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:36:9-41:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:39:13-65
+	android:excludeFromRecents
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:38:13-46
+	android:taskAffinity
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:40:13-36
+	android:name
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:37:13-57
+activity#com.example.android.wearable.wear.wearnotifications.handlers.BigPictureSocialMainActivity
+ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:43:9-49:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:45:13-68
+	android:name
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:44:13-66
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:46:13-48:48
+	android:value
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:48:17-46
+	android:name
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:47:17-63
+activity#com.example.android.wearable.wear.wearnotifications.handlers.InboxMainActivity
+ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:52:9-58:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:54:13-62
+	android:name
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:53:13-55
+activity#com.example.android.wearable.wear.wearnotifications.handlers.MessagingMainActivity
+ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:60:9-66:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:62:13-66
+	android:name
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:61:13-59
+service#com.example.android.wearable.wear.wearnotifications.handlers.BigTextIntentService
+ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:68:9-71:19
+	android:exported
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:70:13-37
+	android:name
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:69:13-58
+service#com.example.android.wearable.wear.wearnotifications.handlers.MessagingIntentService
+ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:73:9-76:19
+	android:exported
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:75:13-37
+	android:name
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:74:13-60
+service#com.example.android.wearable.wear.wearnotifications.handlers.BigPictureSocialIntentService
+ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:78:9-81:19
+	android:exported
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:80:13-37
+	android:name
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml:79:13-67
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\a3e11def4f11d5bb92b1d6968e6a39e2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\a3e11def4f11d5bb92b1d6968e6a39e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-alpha3.aar\bdff99efb106a2fdb83e2a764219af60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-alpha3.aar\bdff99efb106a2fdb83e2a764219af60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-alpha3.aar\f84b6941b3449b29d659516c2c6a9c82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-alpha3.aar\f84b6941b3449b29d659516c2c6a9c82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0-alpha3.aar\793cb38b21c4ab790081224be2dc7434\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0-alpha3.aar\793cb38b21c4ab790081224be2dc7434\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\93802cb41601c6581bf7e4ff95407a01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\93802cb41601c6581bf7e4ff95407a01\AndroidManifest.xml:20:5-44
+MERGED from [:Shared] D:\AndroidStudioProjects\android-Notifications-master\Shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-19:41
+MERGED from [:Shared] D:\AndroidStudioProjects\android-Notifications-master\Shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-19:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-alpha3.aar\72120e8a9fd7168bf650a65a2da27e62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-alpha3.aar\72120e8a9fd7168bf650a65a2da27e62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-alpha3.aar\37bc336fbb265be1b093fb7f2e3e8f6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-alpha3.aar\37bc336fbb265be1b093fb7f2e3e8f6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-alpha3.aar\dcfb055ae03ff09c55e7e4ce636c50b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-alpha3.aar\dcfb055ae03ff09c55e7e4ce636c50b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-alpha3.aar\026d29e6a2e8172b6576780211d51367\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-alpha3] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-alpha3.aar\026d29e6a2e8172b6576780211d51367\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\d89d63a49f1a5ec5414511de27804bbd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\d89d63a49f1a5ec5414511de27804bbd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\f884e8f93697f6b9f9ead68bbbac3dfd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\f884e8f93697f6b9f9ead68bbbac3dfd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\6796e7b4121912fb03fa62d4d93a53af\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\6796e7b4121912fb03fa62d4d93a53af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\0a6137ec114dca68e5a3417b4c28c1b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\0a6137ec114dca68e5a3417b4c28c1b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\768fa60c5bca10787faf22b244e06944\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\768fa60c5bca10787faf22b244e06944\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\6f3de49851eac010bfd8d29f3fa1314a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\6f3de49851eac010bfd8d29f3fa1314a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\ea4e787bcb881cf87b59d1457af1acff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\ea4e787bcb881cf87b59d1457af1acff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\9ca0e27ac0e4f533cde35b820d6a82a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\9ca0e27ac0e4f533cde35b820d6a82a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\45ce38cf92e53fe57d929cf651e15eda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\45ce38cf92e53fe57d929cf651e15eda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\11ac0a3820815dabf3c0de44908933c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\11ac0a3820815dabf3c0de44908933c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\79aabb4e065702c6a77dae595a0c70af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\79aabb4e065702c6a77dae595a0c70af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\9ef2baf0991b17caa7210860ede3aaf2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\9ef2baf0991b17caa7210860ede3aaf2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\1de0cc78246c68a34ab5674226dcb5c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\1de0cc78246c68a34ab5674226dcb5c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\d3c0fedf5d74bef0bd03d81e0b52dc5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\d3c0fedf5d74bef0bd03d81e0b52dc5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\dfda03faaef2cf1c377e2c63431cebec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\dfda03faaef2cf1c377e2c63431cebec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\74da641dbfc3f7f1b66dd16c03c4ffd9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\74da641dbfc3f7f1b66dd16c03c4ffd9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\91a2b795637ff6efad240933146cd58b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\91a2b795637ff6efad240933146cd58b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\fd5687698cf093dabd0121cdda416e72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\fd5687698cf093dabd0121cdda416e72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\dac7ffc0e55b41aa259158e1a208551d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\dac7ffc0e55b41aa259158e1a208551d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\334a5b18d1223a7d46939af645530e8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\334a5b18d1223a7d46939af645530e8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\432a0793059338fc46777c7f058b613b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\432a0793059338fc46777c7f058b613b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\29464c20620be472a37b658c4d168b0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\29464c20620be472a37b658c4d168b0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\3a9c1b836bd809c5c25a1f8ab54d4ca7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\3a9c1b836bd809c5c25a1f8ab54d4ca7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7018717d359d756a21d6e76e7186a0e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7018717d359d756a21d6e76e7186a0e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6ca3ec697cafe71e9208b406ab77c112\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6ca3ec697cafe71e9208b406ab77c112\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\901ff0360a16ff7487cd43424068b9b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\901ff0360a16ff7487cd43424068b9b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c7749a6e41dcdfa20d8943e5bb2fbee7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c7749a6e41dcdfa20d8943e5bb2fbee7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\0be052668dd383ca0fa441370171b90f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\0be052668dd383ca0fa441370171b90f\AndroidManifest.xml:20:5-44
+INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\android-Notifications-master\Application\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\d89d63a49f1a5ec5414511de27804bbd\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\d89d63a49f1a5ec5414511de27804bbd\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\d89d63a49f1a5ec5414511de27804bbd\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\d89d63a49f1a5ec5414511de27804bbd\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\6796e7b4121912fb03fa62d4d93a53af\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\6796e7b4121912fb03fa62d4d93a53af\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\6796e7b4121912fb03fa62d4d93a53af\AndroidManifest.xml:24:13-58
