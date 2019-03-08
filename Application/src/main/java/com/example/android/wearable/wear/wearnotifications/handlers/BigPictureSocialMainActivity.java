@@ -27,19 +27,16 @@ import com.example.android.wearable.wear.wearnotifications.R;
  * Template class meant to include functionality for your Social App. (This project's main focus
  * is on Notification Styles.)
  */
-public class BigPictureSocialMainActivity extends Activity {
-
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_big_picture_main);
-
-        // Cancel Notification
-        NotificationManager notificationManager =
-                (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
-
-        notificationManager.cancel(MainActivity.NOTIFICATION_ID);
-
-        // TODO: Handle and display social post from your database
-    }
+public class BigPictureSocialMainActivity extends Activity
+{
+	@Override
+	protected void onCreate(Bundle savedInstanceState)
+	{
+		super.onCreate(savedInstanceState);
+		
+		setContentView(R.layout.activity_big_picture_main);
+		
+		NotificationManager notificationManager = (NotificationManager)getSystemService(Context.NOTIFICATION_SERVICE);
+		notificationManager.cancel(MainActivity.NOTIFICATION_ID);
+	}
 }
