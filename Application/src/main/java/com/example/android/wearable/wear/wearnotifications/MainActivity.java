@@ -314,7 +314,6 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 				// Adds additional actions specified above.
 				.addAction(snoozeAction)
 				.addAction(dismissAction)
-
 				.build();
 
 		mNotificationManagerCompat.notify(NOTIFICATION_ID, notification);
@@ -385,7 +384,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 		// Adds the Intent to the top of the stack.
 		stackBuilder.addNextIntent(mainIntent);
 		// Gets a PendingIntent containing the entire back stack.
-		PendingIntent mainPendingIntent =PendingIntent.getActivity(this, 0, mainIntent, PendingIntent.FLAG_UPDATE_CURRENT);
+		PendingIntent mainPendingIntent = PendingIntent.getActivity(this, 0, mainIntent, PendingIntent.FLAG_UPDATE_CURRENT);
 
 		// 4. Set up RemoteInput, so users can input (keyboard and voice) from notification.
 
